@@ -1,4 +1,6 @@
 latihan tata cara 1
+  ^ tata cara 1
+  ^ tata cara 3
   ^ tata cara 4
 latihan tata cara 3
   ^ tata cara 3.1
